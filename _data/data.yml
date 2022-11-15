@@ -66,9 +66,9 @@ education:
           pretium quis, sem.
             - Bullet point
             - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
+      - degree: M.S. in Biomedical Enineering
+        university: Northwestern University, Evanston, IL, USA, 60201
+        time: 2018 - 2020
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -77,6 +77,14 @@ education:
           pretium quis, sem.
             - Bullet point
             - Bullet point
+      - degree: BSc in Electrical Engineering
+        university: Southern Medical University, Guangzhou, Guangdong, China
+        time: 2014 - 2018
+        details: |
+          Cumulative GPA: 98.1/100, Class Rank: 1/35.
+            - Cumulative GPA: 98.1/100
+            - Class Rank: 1/35        
+    
 experiences:
     title: Experiences
     info:
