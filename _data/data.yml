@@ -17,7 +17,7 @@ sidebar:
     timezone: America/Central Timezone
     citizenship: China
     website: ivpl.northwestern.edu/people/current-members/yunan-wu/ #do not add http://
-    linkedin: alandoe
+    linkedin: Yunan Wu
     github: yunanwu2168
     pdf: http://www.africau.edu/images/default/sample.pdf
 
@@ -33,13 +33,13 @@ sidebar:
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: Rock Climbing
           link:
 
-        - item: Snowboarding
+        - item: Jogging
           link:
 
-        - item: Cooking
+        - item: Boxing
           link:
 
 career-profile:
