@@ -57,8 +57,10 @@ education:
         university: Northwestern University, Evanston, IL, USA, 60201
         time: 2020 - 2024 (Expected)
         advisor: Dr. Aggelos K. Katsaggelos
+        summary: |
+          cmoidc
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
+          ilnjivjfi...Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
           sociis natoque penatibus et magnis dis parturient montes, nascetur
           ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
@@ -68,7 +70,7 @@ education:
       - degree: M.S. in Biomedical Enineering
         university: Northwestern University, Evanston, IL, USA, 60201
         time: 2018 - 2020
-        details: | ilnjivjfi
+        details: | 
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
           sociis natoque penatibus et magnis dis parturient montes, nascetur
