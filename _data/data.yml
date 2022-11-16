@@ -43,14 +43,14 @@ sidebar:
           link:
 
 career-profile:
-    title: Research Interests
+    title: Interests
     summary: |
       - Medical Signal and Imaging Processing (CT, X-Ray, MRI, Pathology)
       - Artificial Intelligence in Healthcare
       - Data Science
       - Machine Learning and Deep Learning (Un/Semi/Weakly Supervised Learning, Computer Aided Diagnosis/Prognosis,
         Segmentations/Detection/Classification)
-      - Human Computer Interaction
+      - Human Computer Interaction (Camera, Virtual Reality, Self-driving car)
 education:
     title: Education
     info:
@@ -186,4 +186,4 @@ skills:
         level: 60%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    Updated <i class="fas fa-heart"></i> by Yunan Wu on Nov, 2022</a>
