@@ -57,8 +57,6 @@ education:
         university: Northwestern University, Evanston, IL, USA, 60201
         time: 2020 - 2024 (Expected)
         advisor: Dr. Aggelos K. Katsaggelos
-        summary: |
-          cmoidc
         details: |
           ilnjivjfi...Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -92,8 +90,9 @@ experiences:
       - role: HCI Research Assistant
         time: 2022.06 - 2022.09
         company: The Roux Institute, Portland, ME 04101
-        advisor: <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a> Clifton Forlines, Ph.D.
+        advisor: 
         details: |
+          <a href="https://www.khoury.northeastern.edu/people/cliff-forlines/" target="_blank" rel="nofollow">Clifton Forlines, Ph.D.</a> 
           Describe your role here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
           Cum sociis natoque penatibus et magnis dis parturient montes,
