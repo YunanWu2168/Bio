@@ -141,10 +141,10 @@ publication2:
     title: Conference Publications
     intro: |
     papers:
-      - title: A multicohort geometric deep learning study of age dependent cortical and subcortical morphologic interactions for fluid intelligence prediction
-        link: "https://www.nature.com/articles/s41598-022-22313-x"
-        authors: <b>Wu Y</b>, Besson P, Azcona EA, Bandt SK, Parrish TB, Breiter HC, Katsaggelos AK
-        conference: Scientific reports. 2022 Oct 22;12(1):1-6.
+      - title: "Investigating the Potential of Auxiliary-Classifier Gans for Image Classification in Low Data Regimes"
+        link: "https://ieeexplore.ieee.org/abstract/document/9747286"
+        authors: Dravid A, Schiffers F, <b>Wu Y</b>, Cossairt O, Katsaggelos AK
+        conference: InICASSP 2022-2022 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2022 May 23 (pp. 3318-3322). IEEE.
 
       - title: "Deep Gaussian processes for multiple instance learning: Application to CT intracranial hemorrhage detection."
         link: "https://www.sciencedirect.com/science/article/pii/S0169260722001699"
