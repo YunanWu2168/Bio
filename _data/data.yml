@@ -119,10 +119,28 @@ experiences:
             - Bullet point
 
 publications:
-    title: Publications
+    title: Journal Publications
     intro: |
     papers:
-    Journals 
+      - title: A multicohort geometric deep learning study of age dependent cortical and subcortical morphologic interactions for fluid intelligence prediction
+        link: "https://www.nature.com/articles/s41598-022-22313-x"
+        authors: <b>Wu Y</b>, Besson P, Azcona EA, Bandt SK, Parrish TB, Breiter HC, Katsaggelos AK
+        conference: Scientific reports. 2022 Oct 22;12(1):1-6.
+
+      - title: Deep Gaussian processes for multiple instance learning: Application to CT intracranial hemorrhage detection. 
+        link: "https://www.sciencedirect.com/science/article/pii/S0169260722001699"
+        authors: López-Pérez M, Schmidt A, <b>Wu Y</b>, Molina R, Katsaggelos AK
+        conference: Computer Methods and Programs in Biomedicine. 2022 Jun 1;219:106783.
+
+      - title: A syntax directed compiler for Algol 60
+        link: "#"
+        authors: Edgar T. Irons
+        conference: "Comm. ACM 4 (1961), 51–55"
+
+publications:
+    title: Conference Publications
+    intro: |
+    papers:
       - title: A multicohort geometric deep learning study of age dependent cortical and subcortical morphologic interactions for fluid intelligence prediction
         link: "https://www.nature.com/articles/s41598-022-22313-x"
         authors: <b>Wu Y</b>, Besson P, Azcona EA, Bandt SK, Parrish TB, Breiter HC, Katsaggelos AK
