@@ -122,34 +122,40 @@ publications:
     title: Journal Publications
     intro: |
     papers:
-      - title: A multicohort geometric deep learning study of age dependent cortical and subcortical morphologic interactions for fluid intelligence prediction
+      - title: A multicohort geometric deep learning study of age dependent cortical and subcortical morphologic interactions for fluid intelligence prediction.
         link: "https://www.nature.com/articles/s41598-022-22313-x"
         authors: <b>Wu Y</b>, Besson P, Azcona EA, Bandt SK, Parrish TB, Breiter HC, Katsaggelos AK
-        conference: Scientific reports. 2022 Oct 22;12(1):1-6.
+        conference: "Scientific reports. 2022 Oct 22;12(1):1-6."
 
       - title: "Deep Gaussian processes for multiple instance learning: Application to CT intracranial hemorrhage detection."
         link: "https://www.sciencedirect.com/science/article/pii/S0169260722001699"
         authors: López-Pérez M, Schmidt A, <b>Wu Y</b>, Molina R, Katsaggelos AK
-        conference: Computer Methods and Programs in Biomedicine. 2022 Jun 1;219:106783.
+        conference: "Computer Methods and Programs in Biomedicine. 2022 Jun 1;219:106783."
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: "A deep learning fusion model with evidence-based confidence level analysis for differentiation of malignant and benign breast tumors using dynamic contrast enhanced MRI. "
+        link: "https://www.sciencedirect.com/science/article/pii/S1746809421009162"
+        authors: <b>Wu Y</b>, Wu J, Dou Y, Rubert N, Wang Y, Deng J
+        conference: "Biomedical Signal Processing and Control. 2022 Feb 1;72:103319."
 
+      - title: "Can Deep Learning Assist Automatic Identification of Layered Pigments From XRF Data?. "
+        link: "https://pubs.rsc.org/en/content/articlehtml/2022/ja/d2ja00246a"
+        authors: Xu B, <b>Wu Y</b>, Hao P, Vermeulen M, McGeachy A, Smith K, Rayner G, Eremin K, Verri G, Willomitzer F, Alfeld M
+        conference: "Journal of Analytical Atomic Spectrometry. 2022."
+        
+        
 publication2:
     title: Conference Publications
     intro: |
     papers:
-      - title: "Investigating the Potential of Auxiliary-Classifier Gans for Image Classification in Low Data Regimes"
+      - title: "Investigating the Potential of Auxiliary-Classifier Gans for Image Classification in Low Data Regimes."
         link: "https://ieeexplore.ieee.org/abstract/document/9747286"
         authors: Dravid A, Schiffers F, <b>Wu Y</b>, Cossairt O, Katsaggelos AK
-        conference: InICASSP 2022-2022 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2022 May 23 (pp. 3318-3322). IEEE.
+        conference: "InICASSP 2022-2022 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2022 May 23 (pp. 3318-3322). IEEE."
 
-      - title: "Deep Gaussian processes for multiple instance learning: Application to CT intracranial hemorrhage detection."
-        link: "https://www.sciencedirect.com/science/article/pii/S0169260722001699"
-        authors: López-Pérez M, Schmidt A, <b>Wu Y</b>, Molina R, Katsaggelos AK
-        conference: Computer Methods and Programs in Biomedicine. 2022 Jun 1;219:106783.
+      - title: "Reconstruction of Resting State FMRI Using LSTM Variational Auto-Encoder on Subcortical Surface to Detect Epilepsy."
+        link: "https://ieeexplore.ieee.org/abstract/document/9761430"
+        authors: <b>Wu Y</b>, Besson P, Azcona EA, Bandt SK, Parrish TB, Katsaggelos AK
+        conference:  "In2022 IEEE 19th International Symposium on Biomedical Imaging (ISBI) 2022 Mar 28 (pp. 1-5). IEEE."
 
       - title: A syntax directed compiler for Algol 60
         link: "#"
