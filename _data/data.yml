@@ -122,10 +122,10 @@ publications:
     title: Publications
     intro: |
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: A multicohort geometric deep learning study of age dependent cortical and subcortical morphologic interactions for fluid intelligence prediction
+        link: "https://www.nature.com/articles/s41598-022-22313-x"
+        authors: Wu Y, Besson P, Azcona EA, Bandt SK, Parrish TB, Breiter HC, Katsaggelos AK
+        conference: Scientific reports. 2022 Oct 22;12(1):1-6.
 
       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
         link: "#"
@@ -144,9 +144,9 @@ projects:
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: A multicohort geometric deep learning study of age dependent cortical and subcortical morphologic interactions for fluid intelligence prediction
-        link: "#https://www.nature.com/articles/s41598-022-22313-x"
-        tagline: "Wu Y, Besson P, Azcona EA, Bandt SK, Parrish TB, Breiter HC, Katsaggelos AK. A multicohort geometric deep learning study of age dependent cortical and subcortical morphologic interactions for fluid intelligence prediction. Scientific reports. 2022 Oct 22;12(1):1-6."
+      - title: 
+        link: "#"
+        tagline: ".  "
 
       - title: DevStudio
         link: "#"
