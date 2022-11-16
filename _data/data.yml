@@ -142,6 +142,21 @@ publications:
         authors: Xu B, <b>Wu Y</b>, Hao P, Vermeulen M, McGeachy A, Smith K, Rayner G, Eremin K, Verri G, Willomitzer F, Alfeld M
         conference: "Journal of Analytical Atomic Spectrometry. 2022."
         
+      - title: "Ensembled deep neural network for intracranial hemorrhage detection and subtype classification on noncontrast ct images. "
+        link: "http://ojs.ais.cn/jaims/article/view/62"
+        authors: <b>Wu Y</b>, Supanich MP, Jie D.
+        conference: "Journal of Artificial Intelligence for Medical Sciences. 2021 May 5;2(1-2):12-20."
+        
+      - title: "DeepCOVID-XR: an artificial intelligence algorithm to detect COVID-19 on chest radiographs trained and tested on a large US clinical data set. "
+        link: "http://ojs.ais.cn/jaims/article/view/62"
+        authors: Wehbe RM, Sheng J, Dutta S, Chai S, Dravid A, Barutcu S, <b>Wu Y</b>, Cantrell DR, Xiao N, Allen BD, MacNealy GA.
+        conference: "Radiology. 2021 Apr;299(1):E167."
+        
+      - title: "Discriminative Dimensionality Reduction using Deep Neural Networks for Clustering of LIGO Data. "
+        link: "https://arxiv.org/abs/2205.13672"
+        authors: Bahaadini S, <b>Wu Y</b>, Coughlin S, Zevin M, Katsaggelos AK.
+        conference: "[In review] arXiv preprint arXiv:2205.13672. 2022 May 26."        
+        
         
 publication2:
     title: Conference Publications
@@ -157,11 +172,20 @@ publication2:
         authors: <b>Wu Y</b>, Besson P, Azcona EA, Bandt SK, Parrish TB, Katsaggelos AK
         conference:  "In2022 IEEE 19th International Symposium on Biomedical Imaging (ISBI) 2022 Mar 28 (pp. 1-5). IEEE."
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: "Motion artifact reduction in abdominal MRIs using generative adversarial networks with perceptual similarity loss."
+        link: "https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12088/120880H/Motion-artifact-reduction-in-abdominal-MRIs-using-generative-adversarial-networks/10.1117/12.2605824.full?SSO=1"
+        authors: <b>Wu Y</b>, Wang X, Katsaggelos AK
+        conference: "In17th International Symposium on Medical Information Processing and Analysis 2021 Dec 10 (Vol. 12088, pp. 142-150). SPIE."
+        
+      - title: "Combining attention-based multiple instance learning and gaussian processes for CT hemorrhage detection."
+        link: "https://link.springer.com/chapter/10.1007/978-3-030-87196-3_54"
+        authors: <b>Wu Y</b>, Schmidt A, Hernández-Sánchez E, Molina R, Katsaggelos AK
+        conference: "InInternational Conference on Medical Image Computing and Computer-Assisted Intervention 2021 Sep 27 (pp. 582-591). Springer, Cham."
 
+      - title: "Go-selfies: A Fast Selfies Background Removal Method Using ResU-Net Deep Learning."
+        link: "https://ieeexplore.ieee.org/abstract/document/9287320"
+        authors: <b>Wu Y</b>
+        conference: "In2020 28th European Signal Processing Conference (EUSIPCO) 2021 Jan 18 (pp. 615-619). IEEE."
 projects:
     title: Projects
     intro: >
