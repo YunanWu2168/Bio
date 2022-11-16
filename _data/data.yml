@@ -152,11 +152,20 @@ publications:
         authors: Wehbe RM, Sheng J, Dutta S, Chai S, Dravid A, Barutcu S, <b>Wu Y</b>, Cantrell DR, Xiao N, Allen BD, MacNealy GA.
         conference: "Radiology. 2021 Apr;299(1):E167."
         
+      - title: "Deep learning LI-RADS grading system based on contrast enhanced multiphase MRI for differentiation between LR-3 and LR-4/LR-5 liver tumors. "
+        link: "http://ojs.ais.cn/jaims/article/view/62"
+        authors: Wu Y, White GM, Cornelius T, Gowdar I, Ansari MH, Supanich MP, Deng J.
+        conference: "Annals of Translational Medicine. 2020 Jun;8(11)."
+        
       - title: "Discriminative Dimensionality Reduction using Deep Neural Networks for Clustering of LIGO Data. "
         link: "https://arxiv.org/abs/2205.13672"
         authors: Bahaadini S, <b>Wu Y</b>, Coughlin S, Zevin M, Katsaggelos AK.
-        conference: "[In review] arXiv preprint arXiv:2205.13672. 2022 May 26."        
-        
+        conference: "[Under review] arXiv preprint arXiv:2205.13672. 2022 May 26."        
+
+      - title: "Analyzing Brain Morphology in Alzheimer’s Disease Using Discriminative and Generative Spiral Networks. "
+        link: "https://www.biorxiv.org/content/biorxiv/early/2021/04/16/2021.04.15.440008.1.full.pdf"
+        authors: Azcona EA, Besson P, <b>Wu Y</b>, Kurani AS, Bandt SK, Parrish TB, Katsaggelos AK, Alzheimer’s Disease Neuroimaging Initiative.
+        conference: "[Under review] bioRxiv. 2021 Jan 1."  
         
 publication2:
     title: Conference Publications
@@ -186,6 +195,17 @@ publication2:
         link: "https://ieeexplore.ieee.org/abstract/document/9287320"
         authors: <b>Wu Y</b>
         conference: "In2020 28th European Signal Processing Conference (EUSIPCO) 2021 Jan 18 (pp. 615-619). IEEE."
+        
+      - title: "Interpretation of brain morphology in association to alzheimer’s disease dementia classification using graph convolutional networks on triangulated meshes."
+        link: "https://link.springer.com/chapter/10.1007/978-3-030-61056-2_8"
+        authors: Azcona EA, Besson P, <b>Wu Y</b>, Punjabi A, Martersteck A, Dravid A, Parrish TB, Bandt SK, Katsaggelos AK.
+        conference: "InInternational Workshop on Shape in Medical Imaging 2020 Oct 4 (pp. 95-107). Springer, Cham."        
+      
+      - title: "A comparison of 1-D and 2-D deep convolutional neural networks in ECG classification."
+        link: "https://arxiv.org/abs/1810.07088"
+        authors: <b>Wu Y</b>, Yang F, Liu Y, Zha X, Yuan S.
+        conference: "InInternational Conference of the IEEE Engineering in Medicine and Biology Society 2018 (pp. 324-327). IEEE."    
+        
 projects:
     title: Projects
     intro: >
