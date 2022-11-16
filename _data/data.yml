@@ -3,7 +3,7 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
@@ -122,15 +122,16 @@ publications:
     title: Publications
     intro: |
     papers:
+    Journals 
       - title: A multicohort geometric deep learning study of age dependent cortical and subcortical morphologic interactions for fluid intelligence prediction
         link: "https://www.nature.com/articles/s41598-022-22313-x"
         authors: <b>Wu Y</b>, Besson P, Azcona EA, Bandt SK, Parrish TB, Breiter HC, Katsaggelos AK
         conference: Scientific reports. 2022 Oct 22;12(1):1-6.
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: Deep Gaussian processes for multiple instance learning: Application to CT intracranial hemorrhage detection. 
+        link: "https://www.sciencedirect.com/science/article/pii/S0169260722001699"
+        authors: López-Pérez M, Schmidt A, <b>Wu Y</b>, Molina R, Katsaggelos AK
+        conference: Computer Methods and Programs in Biomedicine. 2022 Jun 1;219:106783.
 
       - title: A syntax directed compiler for Algol 60
         link: "#"
