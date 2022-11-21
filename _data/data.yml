@@ -19,6 +19,7 @@ sidebar:
     linkedin: Yunan Wu
     github: yunanwu2168
     pdf: http://www.africau.edu/images/default/sample.pdf
+    pdf: https://github.com/YunanWu2168/Bio/blob/master/assets/Yunan_Wu_CoverLetter.pdf
 
     languages:
       title: Languages
@@ -125,7 +126,7 @@ publications:
       - title: A multicohort geometric deep learning study of age dependent cortical and subcortical morphologic interactions for fluid intelligence prediction.
         link: "https://www.nature.com/articles/s41598-022-22313-x"
         authors: <b>Wu Y</b>, Besson P, Azcona EA, Bandt SK, Parrish TB, Breiter HC, Katsaggelos AK
-        conference: "Scientific reports. 2022 Oct 22;12(1):1-6."
+        conference: "Scientific reports. 2022 Oct 22;12(1):1-16."
 
       - title: "Deep Gaussian processes for multiple instance learning: Application to CT intracranial hemorrhage detection."
         link: "https://www.sciencedirect.com/science/article/pii/S0169260722001699"
