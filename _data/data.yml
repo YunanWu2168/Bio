@@ -34,16 +34,16 @@ sidebar:
       title: Interests
       info:
         - item: Rock Climbing
-          link: "https://www.khoury.northeastern.edu/people/cliff-forlines/"
+          link:
 
         - item: Jogging
-          link:
+          link: "https://github.com/YunanWu2168/Bio/files/running.jpg"
 
         - item: Boxing
           link:
           
         - item: Snow boarding
-          link:          
+          link: "https://github.com/YunanWu2168/Bio/files/IMG_1748.jpg"         
 
 career-profile:
     title: Interests
