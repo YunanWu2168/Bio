@@ -244,27 +244,27 @@ projects2:
         link: "https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12088/120880H/Motion-artifact-reduction-in-abdominal-MRIs-using-generative-adversarial-networks/10.1117/12.2605824.full"
         tagline: "The 17th International Symposium on Medical Information Processing and Analysis (SIPAIM), 2021, Virtual, Oral presentation."
 
-      - title: "Go-selfies: A Fast Selfies Background Removal Method Using ResU-Net Deep Learning."
+      - title: "- Go-selfies: A Fast Selfies Background Removal Method Using ResU-Net Deep Learning."
         link: "https://ieeexplore.ieee.org/abstract/document/9287320"
         tagline: "The 28th European Signal Processing Conference (EUSIPCO), 2020, Amsterdam, Netherlands, Oral Presentation."
 
-      - title: "Automatic Identification of Emergent Findings on Head CT Scan using Deep Learning."
+      - title: "- Automatic Identification of Emergent Findings on Head CT Scan using Deep Learning."
         link: "https://www.asnr.org/2021-program-sync/"
         tagline: "American Society of Neuroradiology (ASNR) 2021, Chicago, Oral presentation."        
         
-      - title: "Geometric Deep Learning on Brain Morphology to Predict Composite Score of Fluid Cognition."
+      - title: "- Geometric Deep Learning on Brain Morphology to Predict Composite Score of Fluid Cognition."
         link: "https://www.nature.com/articles/s41598-022-22313-x"
         tagline: "Radiological Society of North America (RSNA) 2020, Virtual, Oral presentation."     
   
-      - title: "Deep Learning Method for Intracranial Hemorrhage Detection and Subtype Differentiation."
+      - title: "- Deep Learning Method for Intracranial Hemorrhage Detection and Subtype Differentiation."
         link: "http://ojs.ais.cn/jaims/article/view/62"
         tagline: "The 17th IEEE International Symposium on Biomedical Imaging (ISBI) 2020, Iowa City, USA, Poster Presentation."   
         
-      - title: "Fast Breast Cancer MRI Screening Using a Deep Learning Model Combined with Analytical Imaging Features."
+      - title: "- Fast Breast Cancer MRI Screening Using a Deep Learning Model Combined with Analytical Imaging Features."
         link: "https://www.sciencedirect.com/science/article/pii/S1746809421009162"
         tagline: "American Roentgen Ray Society (ARRS) 2020, Chicago, USA, Poster Presentation"   
         
-      - title: "A Comparison of 1-D and 2-D Deep Convolutional Neural Networks in ECG Classification."
+      - title: "- A Comparison of 1-D and 2-D Deep Convolutional Neural Networks in ECG Classification."
         link: "https://arxiv.org/abs/1810.07088"
         tagline: "The 40th International Conference of the IEEE in Engineering Medicine and Biology Society (EMBS) 2018, Honolulu, USA, Poster Presentation."   
         
@@ -275,7 +275,7 @@ skills:
       - name: Python
         level: 98%
 
-      - name: Tensorflow/Pytorch
+      - name: Tensorflow & Pytorch & Keras
         level: 98%
 
       - name: R & SPSS & MATLAB
