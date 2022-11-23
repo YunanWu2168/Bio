@@ -238,16 +238,32 @@ projects2:
         tagline: "The 19th IEEE International Symposium on Biomedical Imaging (ISBI) 2022, Kolkata, India, Poster presentation."
 
       - title: "Combining Attention-Based Multiple Instance Learning and Gaussian Processes for CT Hemorrhage Detection."
-        link: "#"
+        link: "https://link.springer.com/chapter/10.1007/978-3-030-87196-3_54"
         tagline: "The 24th International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI), 2021, Strasbourg, France, Poster presentation."
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - title: "Go-selfies: A Fast Selfies Background Removal Method Using ResU-Net Deep Learning."
+        link: "https://ieeexplore.ieee.org/abstract/document/9287320"
+        tagline: "The 28th European Signal Processing Conference (EUSIPCO), 2020, Amsterdam, Netherlands, Oral Presentation."
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"        
+      - title: "Automatic Identification of Emergent Findings on Head CT Scan using Deep Learning."
+        link: "https://www.asnr.org/2021-program-sync/"
+        tagline: "American Society of Neuroradiology (ASNR) 2021, Chicago, Oral presentation."        
+        
+      - title: "Geometric Deep Learning on Brain Morphology to Predict Composite Score of Fluid Cognition."
+        link: "https://www.nature.com/articles/s41598-022-22313-x"
+        tagline: "Radiological Society of North America (RSNA) 2020, Virtual, Oral presentation."     
+  
+      - title: "Deep Learning Method for Intracranial Hemorrhage Detection and Subtype Differentiation."
+        link: "http://ojs.ais.cn/jaims/article/view/62"
+        tagline: "The 17th IEEE International Symposium on Biomedical Imaging (ISBI) 2020, Iowa City, USA, Poster Presentation."   
+        
+      - title: "Fast Breast Cancer MRI Screening Using a Deep Learning Model Combined with Analytical Imaging Features."
+        link: "https://www.sciencedirect.com/science/article/pii/S1746809421009162"
+        tagline: "American Roentgen Ray Society (ARRS) 2020, Chicago, USA, Poster Presentation"   
+        
+      - title: "A Comparison of 1-D and 2-D Deep Convolutional Neural Networks in ECG Classification."
+        link: "https://arxiv.org/abs/1810.07088"
+        tagline: "The 40th International Conference of the IEEE in Engineering Medicine and Biology Society (EMBS) 2018, Honolulu, USA, Poster Presentation."   
         
 skills:
     title: Skills &amp; Proficiency
