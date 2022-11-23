@@ -98,8 +98,9 @@ experiences:
           Advisor: <a href="https://www.khoury.northeastern.edu/people/cliff-forlines/" target="_blank" rel="nofollow">Clifton Forlines, Ph.D.</a> 
           
           Developed a cheaper and easier-to-use technology that can compete with expensive devices by providing researchers with physiological signals from sensors to measure users' cognitive and emotional workload in real-time as they are engaged in a task. Details included:
-            - Bullet point
-            - Bullet point
+            - Collected biometric measurements from Emotibit and Empatica E4 along with established EEG measurements from Emotiv.
+            - Built Machine Learning models to map physiological signals to cognitive and emotional scores of excitement, focus, engagement and stress. 
+            - Submitted a conference paper to ACM CHI2023 (under review). 
       - role: AI Medical Imaging Research Assistant
         time: 2019.11.11 - 2020.05.21
         company: Rush University Medical Center, Chicago, IL 60612
