@@ -59,8 +59,7 @@ education:
     info:
       - degree: Ph.D. in Electrical Computer Engineering
         university: Northwestern University, Evanston, IL, USA, 60201
-        time: 2020 - 2024 (Expected)
-        advisor: Dr. Aggelos K. Katsaggelos
+        time: 2020 - 2024 (Expected)     Advisor: Dr. Aggelos K. Katsaggelos
         details: |
           ilnjivjfi...Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -232,13 +231,10 @@ projects2:
       - title: "Identification of Intracranial Hemorrhage and Its Subtypes on Head CT Scans Using Transfer Learning and Weakly Supervised Networks."
         link: "https://yunanwu2168.github.io/Bio/files/photo.jpg"
         tagline: "American Society of Neuroradiology (ASNR) 2022, New York City, Oral presentation." 
-        
-        : <p></p>
 
       - title: "Reconstruction of Resting State fMRI Using LSTM Variational Auto-encoder On Subcortical Surface to Detect Epilepsy."
         link: "https://ieeexplore.ieee.org/abstract/document/9761430"
         tagline: "The 19th IEEE International Symposium on Biomedical Imaging (ISBI) 2022, Kolkata, India, Poster presentation." 
-        : <br>
 
       - title: "Combining Attention-Based Multiple Instance Learning and Gaussian Processes for CT Hemorrhage Detection."
         link: "https://link.springer.com/chapter/10.1007/978-3-030-87196-3_54"
