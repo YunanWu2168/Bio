@@ -241,6 +241,10 @@ projects2:
         link: "https://link.springer.com/chapter/10.1007/978-3-030-87196-3_54"
         tagline: "The 24th International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI), 2021, Strasbourg, France, Poster presentation."
 
+      - title: "Motion artifact reduction in abdominal MRIs using generative adversarial networks with perceptual similarity loss."
+        link: "https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12088/120880H/Motion-artifact-reduction-in-abdominal-MRIs-using-generative-adversarial-networks/10.1117/12.2605824.full"
+        tagline: "The 17th International Symposium on Medical Information Processing and Analysis (SIPAIM), 2021, Virtual, Oral presentation."
+
       - title: "Go-selfies: A Fast Selfies Background Removal Method Using ResU-Net Deep Learning."
         link: "https://ieeexplore.ieee.org/abstract/document/9287320"
         tagline: "The 28th European Signal Processing Conference (EUSIPCO), 2020, Amsterdam, Netherlands, Oral Presentation."
