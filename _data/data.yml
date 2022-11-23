@@ -107,11 +107,7 @@ experiences:
         details: |
           Advisor: <a href="https://profiles.utsouthwestern.edu/profile/206899/jie-deng.html" target="_blank" rel="nofollow">Jie Deng, Ph.D.</a> and <a href="https://profiles.rush.edu/display/29676" target="_blank" rel="nofollow">Mark Supanich, Ph.D.</a> 
           
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
+          .
             - Bullet point
             - Bullet point
 
@@ -232,14 +228,10 @@ projects:
         
 projects2:
     title: Presentations
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: 
+      - title: "Identification of Intracranial Hemorrhage and Its Subtypes on Head CT Scans Using Transfer Learning and Weakly Supervised Networks."
         link: "#"
-        tagline: ".  "
+        tagline: "American Society of Neuroradiology (ASNR) 2022, New York City, Oral presentation."
 
       - title: DevStudio
         link: "#"
