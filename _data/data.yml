@@ -48,17 +48,14 @@ sidebar:
     news:
       title: News
       info:
-        - item: Rock Climbing
-          link:
+        - item: DL-based Fluid intelligence prediction 
+          link: "https://news.feinberg.northwestern.edu/2022/11/03/novel-deep-learning-method-may-help-predict-cognitive-function/"
 
-        - item: Jogging
-          link: "https://yunanwu2168.github.io/Bio/files/running.jpg"
+        - item: Snappy bird AI game 
+          link: "https://www.youtube.com/watch?v=iZp5KHM4lUM"
 
-        - item: Boxing
-          link:
-          
-        - item: Snow boarding
-          link: "https://yunanwu2168.github.io/Bio/files/IMG_1748.jpg"   
+        - item: Go-selfies photo background removal
+          link: "https://medium.com/@yunanwu2020/go-selfies-how-to-do-photo-background-removal-using-deep-learning segmentation-codes-6131d59a2ca9"
      
 
 career-profile:
