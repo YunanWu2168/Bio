@@ -1,0 +1,22 @@
+{% assign news = site.data.data.sidebar.news %}
+{% if news %}
+<div class="news-container container-block">
+
+  <h2 class="container-block-title">
+    {{ news.title }}
+  </h2>
+
+  <ul class="list-unstyled interests-list">
+    {% for interest in news.info %}
+
+      {% if interest.link %}
+      <li><a href="{{ interest.link }}">{{ interest.item }}</a></li>
+      {% else %}
+      <li>{{ interest.item }}</li>
+      {% endif %}
+
+    {% endfor %}
+  </ul>
+
+</div><!--//news-->
+{% endif %}
