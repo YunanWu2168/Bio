@@ -147,7 +147,7 @@ publications:
         
       - title: "Deep learning LI-RADS grading system based on contrast enhanced multiphase MRI for differentiation between LR-3 and LR-4/LR-5 liver tumors. "
         link: "http://ojs.ais.cn/jaims/article/view/62"
-        authors: Wu Y, White GM, Cornelius T, Gowdar I, Ansari MH, Supanich MP, Deng J.
+        authors: <b>Wu Y</b>, White GM, Cornelius T, Gowdar I, Ansari MH, Supanich MP, Deng J.
         conference: "Annals of Translational Medicine. 2020 Jun;8(11)."
         
       - title: "Discriminative Dimensionality Reduction using Deep Neural Networks for Clustering of LIGO Data. "
