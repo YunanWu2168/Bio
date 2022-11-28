@@ -106,9 +106,10 @@ experiences:
         details: |
           Advisor: <a href="https://profiles.utsouthwestern.edu/profile/206899/jie-deng.html" target="_blank" rel="nofollow">Jie Deng, Ph.D.</a> and <a href="https://profiles.rush.edu/display/29676" target="_blank" rel="nofollow">Mark Supanich, Ph.D.</a> 
           
-          .
-            - Bullet point
-            - Bullet point
+          Developed a deep learning-based workflow to assist radiologists in diagnosing diseases quickly and accurately, thereby advancing the development of artificial intelligence imaging healthcare. 
+            - Knee injury, developed convolutional neural networks to classify anterior cruciate ligament (ACL) tear.
+            - breast tumor, designed a computer aided system with evidence-based confidence level analyses to detect malignant breast tumors.
+            - liver tumor, developed a deep learning model to differentiate levels of malignant liver tumors.
 
 publications:
     title: Journal Publications
