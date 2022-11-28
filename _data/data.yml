@@ -50,9 +50,9 @@ career-profile:
     summary: |
       - Medical Signal and Imaging Processing (CT, X-Ray, MRI, Pathology)
       - Artificial Intelligence in Healthcare (Computer Aided Diagnosis/Prognosis, Precision Medicine)
-      - Data Science (Stock, Economy)
+      - Data Science (Stock, Economy, Astrophysics)
       - Machine Learning and Deep Learning (Un/Semi/Weakly Supervised Learning,
-        Segmentations/Detection/Classification)
+        Segmentations/Detection/Classification, Interpretation/Visualization)
       - Human Computer Interaction (Camera, Virtual Reality, Self-driving Car)
 education:
     title: Education
@@ -108,8 +108,8 @@ experiences:
           
           Developed a deep learning-based workflow to assist radiologists in diagnosing diseases quickly and accurately, thereby advancing the development of artificial intelligence imaging healthcare. 
             - Knee injury, developed convolutional neural networks to classify anterior cruciate ligament (ACL) tear.
-            - breast tumor, designed a computer aided system with evidence-based confidence level analyses to detect malignant breast tumors.
-            - liver tumor, developed a deep learning model to differentiate levels of malignant liver tumors.
+            - <a href="https://www.sciencedirect.com/science/article/pii/S1746809421009162" target="_blank" rel="nofollow">breast tumor</a>, designed a computer aided system with evidence-based confidence level analyses to detect malignant breast tumors.
+            - <a href="http://ojs.ais.cn/jaims/article/view/62" target="_blank" rel="nofollow">liver tumor</a>, developed a deep learning model to differentiate levels of malignant liver tumors.
 
 publications:
     title: Journal Publications
