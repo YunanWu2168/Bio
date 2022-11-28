@@ -43,7 +43,23 @@ sidebar:
           link:
           
         - item: Snow boarding
-          link: "https://yunanwu2168.github.io/Bio/files/IMG_1748.jpg"         
+          link: "https://yunanwu2168.github.io/Bio/files/IMG_1748.jpg"   
+          
+    news:
+      title: News
+      info:
+        - item: Rock Climbing
+          link:
+
+        - item: Jogging
+          link: "https://yunanwu2168.github.io/Bio/files/running.jpg"
+
+        - item: Boxing
+          link:
+          
+        - item: Snow boarding
+          link: "https://yunanwu2168.github.io/Bio/files/IMG_1748.jpg"   
+     
 
 career-profile:
     title: Interests
