@@ -18,7 +18,8 @@ sidebar:
     website: ivpl.northwestern.edu/people/current-members/yunan-wu/ #do not add http://
     linkedin: yunan-wu-53513b1b9
     github: yunanwu2168
-    pdf: https://yunanwu2168.github.io/Bio/print
+    pdf: https://github.com/YunanWu2168/Bio/blob/master/assets/CV.pdf   
+#     https://yunanwu2168.github.io/Bio/print
     pdf2: https://github.com/YunanWu2168/Bio/blob/master/assets/Yunan_Wu_CoverLetter.pdf
 
     languages:
@@ -121,8 +122,8 @@ experiences:
           
           Developed a deep learning-based workflow to assist radiologists in diagnosing diseases quickly and accurately, thereby advancing the development of artificial intelligence imaging healthcare. 
             - Knee injury, developed convolutional neural networks to classify anterior cruciate ligament (ACL) tear.
-            - <a href="https://www.sciencedirect.com/science/article/pii/S1746809421009162" target="_blank" rel="nofollow">breast tumor</a>, designed a computer aided system with evidence-based confidence level analyses to detect malignant breast tumors.
-            - <a href="http://ojs.ais.cn/jaims/article/view/62" target="_blank" rel="nofollow">liver tumor</a>, developed a deep learning model to differentiate levels of malignant liver tumors.
+            - <a href="https://www.sciencedirect.com/science/article/pii/S1746809421009162" target="_blank" rel="nofollow">Breast tumor</a>, designed a computer aided system with evidence-based confidence level analyses to detect malignant breast tumors.
+            - <a href="http://ojs.ais.cn/jaims/article/view/62" target="_blank" rel="nofollow">Liver tumor</a>, developed a deep learning model to differentiate levels of malignant liver tumors.
 
 publications:
     title: Journal Publications
@@ -154,12 +155,12 @@ publications:
         conference: "Journal of Artificial Intelligence for Medical Sciences. 2021 May 5;2(1-2):12-20."
         
       - title: "DeepCOVID-XR: an artificial intelligence algorithm to detect COVID-19 on chest radiographs trained and tested on a large US clinical data set. "
-        link: "http://ojs.ais.cn/jaims/article/view/62"
+        link: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7993244/"
         authors: Wehbe RM, Sheng J, Dutta S, Chai S, Dravid A, Barutcu S, <b>Wu Y</b>, Cantrell DR, Xiao N, Allen BD, MacNealy GA.
         conference: "Radiology. 2021 Apr;299(1):E167."
         
       - title: "Deep learning LI-RADS grading system based on contrast enhanced multiphase MRI for differentiation between LR-3 and LR-4/LR-5 liver tumors. "
-        link: "http://ojs.ais.cn/jaims/article/view/62"
+        link: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7327307/"
         authors: <b>Wu Y</b>, White GM, Cornelius T, Gowdar I, Ansari MH, Supanich MP, Deng J.
         conference: "Annals of Translational Medicine. 2020 Jun;8(11)."
         
