@@ -113,7 +113,7 @@ experiences:
           Developed a cheaper and easier-to-use technology that can compete with expensive devices by providing researchers with physiological signals from sensors to measure users' cognitive and emotional workload in real-time as they are engaged in a task. Details included:
             - Collected biometric measurements from Emotibit and Empatica E4 along with established EEG measurements from Emotiv.
             - Built Machine Learning models to map physiological signals to cognitive and emotional scores of excitement, focus, engagement and stress. 
-            - Submitted a conference paper to ACM CHI2023 (under review). 
+            - A conference paper was accepted in <a href="https://www.percom.org/" target="_blank" rel="nofollow">PerCom2023</a>. 
       - role: AI Medical Imaging Research Assistant
         time: 2019.11.11 - 2020.05.21
         company: Rush University Medical Center, Chicago, IL 60612
@@ -178,6 +178,11 @@ publication2:
     title: Conference Publications
     intro: |
     papers:
+      - title: "Cognitive and Emotional Monitoring with Inexpensive Wrist-Worn Consumer-Grade Wearables."
+        link: "https://www.percom.org/"
+        authors: <b>Wu Y</b>, Valdez R, Forlines C
+        conference: "Accepted by IEEE PerCom."
+    
       - title: "Investigating the Potential of Auxiliary-Classifier Gans for Image Classification in Low Data Regimes."
         link: "https://ieeexplore.ieee.org/abstract/document/9747286"
         authors: Dravid A, Schiffers F, <b>Wu Y</b>, Cossairt O, Katsaggelos AK
