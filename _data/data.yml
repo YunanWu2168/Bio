@@ -139,7 +139,7 @@ publications:
         authors: Zevin M, Jackson CB, Doctor Z, <b>Wu Y</b>, Østerlund C, Johnson LC, Berry CP, Crowston K, Coughlin SB, Kalogera V, Banagiri S.
         conference: "arXiv preprint arXiv:2308.15530. 2023 Aug 29."
     
-      - title: DeepCOVID-Fuse: A Multi-Modality Deep Learning Model Fusing Chest X-rays and Clinical Variables to Predict COVID-19 Risk Levels.
+      - title: DeepCOVID-Fuse - A Multi-Modality Deep Learning Model Fusing Chest X-rays and Clinical Variables to Predict COVID-19 Risk Levels.
         link: "https://www.mdpi.com/2306-5354/10/5/556"
         authors: <b>Wu Y</b>, Dravid A, Wehbe RM, Katsaggelos AK
         conference: "Bioengineering. 2023 May 5;10(5):556."
