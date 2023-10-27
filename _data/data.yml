@@ -129,6 +129,21 @@ publications:
     title: Journal Publications
     intro: |
     papers:
+      - title: A deep learning method for predicting the COVID-19 ICU patient outcome fusing X-rays, respiratory sounds, and ICU parameters
+        link: "https://www.sciencedirect.com/science/article/pii/S0957417423015919"
+        authors: <b>Wu Y</b>, Rocha BM, Kaimakamis E, Cheimariotis GA, Petmezas G, Chatzis E, Kilintzis V, Stefanopoulos L, Pessoa D, Marques A, Carvalho P
+        conference: "Expert Systems with Applications. 2024 Jan 1;235:121089."
+        
+      - title: Gravity Spy: Lessons Learned and a Path Forward.
+        link: "https://arxiv.org/abs/2308.15530"
+        authors: Zevin M, Jackson CB, Doctor Z, <b>Wu Y</b>, Østerlund C, Johnson LC, Berry CP, Crowston K, Coughlin SB, Kalogera V, Banagiri S.
+        conference: "arXiv preprint arXiv:2308.15530. 2023 Aug 29."
+    
+      - title: DeepCOVID-Fuse: A Multi-Modality Deep Learning Model Fusing Chest X-rays and Clinical Variables to Predict COVID-19 Risk Levels.
+        link: "https://www.mdpi.com/2306-5354/10/5/556"
+        authors: <b>Wu Y</b>, Dravid A, Wehbe RM, Katsaggelos AK
+        conference: "Bioengineering. 2023 May 5;10(5):556."
+    
       - title: A multicohort geometric deep learning study of age dependent cortical and subcortical morphologic interactions for fluid intelligence prediction.
         link: "https://www.nature.com/articles/s41598-022-22313-x"
         authors: <b>Wu Y</b>, Besson P, Azcona EA, Bandt SK, Parrish TB, Breiter HC, Katsaggelos AK
@@ -178,10 +193,15 @@ publication2:
     title: Conference Publications
     intro: |
     papers:
+      - title: "Smooth Attention for Deep Multiple Instance Learning: Application to CT Intracranial Hemorrhage Detection."
+        link: "https://link.springer.com/chapter/10.1007/978-3-031-43904-9_32"
+        authors: <b>Wu Y</b>, Castro-Macías FM, Morales-Álvarez P, Molina R, Katsaggelos AK. 
+        conference: "InInternational Conference on Medical Image Computing and Computer-Assisted Intervention 2023 Oct 1 (pp. 327-337). Cham: Springer Nature Switzerland."
+        
       - title: "Cognitive and Emotional Monitoring with Inexpensive Wrist-Worn Consumer-Grade Wearables."
-        link: "https://www.percom.org/"
+        link: "https://ieeexplore.ieee.org/abstract/document/10150338"
         authors: <b>Wu Y</b>, Valdez R, Forlines C
-        conference: "Accepted by IEEE PerCom."
+        conference: "In2023 IEEE International Conference on Pervasive Computing and Communications Workshops and other Affiliated Events (PerCom Workshops) 2023 Mar 13 (pp. 665-670). IEEE."
     
       - title: "Investigating the Potential of Auxiliary-Classifier Gans for Image Classification in Low Data Regimes."
         link: "https://ieeexplore.ieee.org/abstract/document/9747286"
